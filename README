@@ -1,0 +1,28 @@
+Author	:	Chirag R. Author
+Email	:	chirag.agarwalr@gmail.com
+Problem	:	Design and implement a 3D robot and make it dance using OpenGl.
+Site	:	http://www.agarwalchirag.wordpress.com
+
+-This project aims at creating a 3D robot using the polygon primitives in OpenGl and glut libraries. 
+
+-The bot is assigned a material.
+
+-Four different light sources are craeted at different locations and are triggered randomly to give a better look to the dance.
+
+-The bot is animated to dance to some basic steps. 
+
+-The background has walls and a dance floor. Appropriate texture mapping is incorporated to each of these planes.
+
+-Along with the above, the sound is implemented in the same program using the windows libraries.
+
+-------------------------------------------------------------------------------------------
+
+NOTE :
+
+The code works only on Windows operating system. It uses the following libraries :
+
+-windows.h
+-mmsystem.h
+
+Make sure to include the "libwinmm.a" file in the project parameters. I've used the DevC++ IDE.
+ 

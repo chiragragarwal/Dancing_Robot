@@ -3,11 +3,11 @@ Email	:	chirag.agarwalr@gmail.com
 Problem	:	Design and implement a 3D robot and make it dance using OpenGl.
 Site	:	http://www.agarwalchirag.wordpress.com
 
--This project aims at creating a 3D robot using the polygon primitives in OpenGl and glut libraries. 
+-This project aims at creating a 3D robot and make it dance to some music using the polygon primitives in OpenGl and glut libraries. 
 
 -The bot is assigned a material.
 
--Four different light sources are craeted at different locations and are triggered randomly to give a better look to the dance.
+-Four different light sources are created at different locations and are triggered randomly to give a better look to the dance.
 
 -The bot is animated to dance to some basic steps. 
 
